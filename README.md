@@ -1,8 +1,5 @@
 
 ---
-
-### Explanation of the sections:
-
 - **Dataset**: A description of the Iris dataset and its features.
 - **Requirements**: This section lists all the necessary libraries needed to run the project, along with the installation instructions.
 - **Project Structure**: Describes the organization of the project files.
