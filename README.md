@@ -11,4 +11,4 @@
 - **Training and Evaluation**: This model is trained with a dataset found online, A csv file by netj.
 - **Results**: After training, the model is evaluated on the test data. The model's predictions are compared to the true labels (test labels), and the number of        correct predictions is counted. Finally, the model's accuracy is computed as the ratio of correct predictions to the total number of test instances.
 - **Performance**: This model performs well with 96.7% accuracy.
-- **Link to Colab**: [(https://colab.research.google.com/github/BalavinayakamD/Simple_Neural_Network_Iris/blob/main/Simple_Neural_Network_Iris.ipynb)]
+- **Link to Colab**: <a>https://colab.research.google.com/github/BalavinayakamD/Simple_Neural_Network_Iris/blob/main/Simple_Neural_Network_Iris.ipynb<a>
